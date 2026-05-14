@@ -21,9 +21,8 @@ Former President & R&D Secretary of RoboSUST (3 years), leading technical teams 
 - Exploring production-grade LLM agent systems
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niloy-Sarker-T&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niloy-Sarker-T&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats-gamma.vercel.app/api?username=Niloy-Sarker-T&show_icons=true&theme=tokyonight)
 
 ---
 
