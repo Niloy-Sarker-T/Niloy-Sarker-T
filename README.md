@@ -22,7 +22,7 @@ Former President & R&D Secretary of RoboSUST (3 years), leading technical teams 
 
 ---
 
-![GitHub stats](https://github-readme-stats-gamma.vercel.app/api?username=Niloy-Sarker-T&show_icons=true&theme=tokyonight)
+
 
 ---
 
