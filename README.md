@@ -24,6 +24,10 @@ Former President & R&D Secretary of RoboSUST (3 years), leading technical teams 
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NiloySarker&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiloySarker&layout=compact&theme=tokyonight)
+
 ## 🔥 Featured Projects
 
 ### 📚 PaperSense – Research Paper Assistant
