@@ -2,7 +2,7 @@
 
 AI/ML Engineer | Backend Developer | Researcher (CV, RAG, Speech AI)
 
-LinkedIn | Portfolio | GitHub | niloysarker0033@gmail.com | 01861288754
+[LinkedIn](https://linkedin.com) | [Portfolio](https://your-portfolio.com) | [GitHub](https://github.com/NiloySarker) | niloysarker0033@gmail.com | 01861288754
 
 ---
 
@@ -14,48 +14,66 @@ Former President & R&D Secretary of RoboSUST (3 years), leading technical teams 
 
 ---
 
-## 🧠 Core Expertise
+## 🔭 Currently
 
-- LLM Applications & RAG Systems (FastAPI, vector DBs, Ollama)
-- Computer Vision (Detection, OCR, multimodal pipelines)
-- Speech AI (ASR, TTS, language normalization pipelines)
-- Backend Engineering (FastAPI, PostgreSQL, SQLAlchemy)
-- Machine Learning Systems Design & Deployment
+- Building RAG + multimodal AI systems
+- Researching Bangla Sign Language recognition (video → gloss generation)
+- Exploring production-grade LLM agent systems
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NiloySarker&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NiloySarker&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiloySarker&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiloySarker&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🧠 Core Expertise
+
+- LLM Systems (RAG pipelines, FastAPI inference systems)
+- Computer Vision Systems (detection, OCR, tracking pipelines)
+- Speech AI pipelines (ASR → normalization → LLM post-processing)
+- Production Backend Engineering (FastAPI, PostgreSQL, APIs)
+- Machine Learning System Design & Deployment
+
+---
 
 ## 🔥 Featured Projects
 
 ### 📚 PaperSense – Research Paper Assistant
-Production-ready RAG system for academic papers  
-- Section-aware PDF parsing + semantic chunking  
-- Qdrant-based retrieval  
-- Citation-grounded LLM responses  
+Production-grade RAG system for academic papers
+
+- Section-aware PDF parsing + semantic chunking
+- Retrieval using Qdrant vector database
+- Citation-grounded LLM responses
+
 **Stack:** FastAPI, Qdrant, Sentence Transformers, Ollama, PostgreSQL
 
 ---
 
 ### 🤝 HackMatch – Hackathon Talent Platform
-Backend platform connecting students and companies through hackathons  
-- Smart discovery & team formation system  
-- Scalable FastAPI + PostgreSQL architecture  
+Backend platform connecting students and companies through hackathons
+
+- Smart discovery & team formation system
+- Scalable FastAPI + PostgreSQL architecture
+
 **Stack:** FastAPI, SQLAlchemy, PostgreSQL
 
 ---
 
 ### 🧹 Code Samurai Hackathon – Waste Management System
-Smart citizen-facing system for Dhaka  
+Smart citizen-facing system for Dhaka
+
+- Citizen reporting and tracking system
+- Engagement-focused UI
+
 **Stack:** React, MongoDB, JavaScript
 
 ---
 
 ## 🧪 Machine Learning & AI Experience
 
-- 🥇 **1st among SUST** – DL ENIGMA Object Detection (RT-DETR + WBF ensemble, +4% accuracy)
+- 🥇 **1st among SUST** – DL ENIGMA Object Detection (RT-DETR + WBF ensemble, +4% accuracy improvement)
 - 🧾 Built OCR–VLM multimodal pipeline (78% accuracy, NanoNet + custom VLM fine-tuning)
 - 🎙️ ASR–LLM pipeline for regional-to-standard text conversion (85% accuracy)
 - 🧠 Fraud detection system (XGBoost + feature engineering, 90.4% accuracy)
@@ -78,7 +96,7 @@ Smart citizen-facing system for Dhaka
 
 - 🥇 1st in SUST – Object Detection (DL Enigma, SUST CSE Carnival)
 - 🏅 Top 4 / 46 – National Datathon (Autonomous driving challenge)
-- 🏆 Finalist – Code Samurai Bangladesh (Top 10%)
+- 🏆 Finalist – Code Samurai Bangladesh (Top 10% among 400+ teams)
 - 🎯 UIU Bhashamul Finalist (Top 15%)
 
 ---
@@ -91,6 +109,8 @@ Python • FastAPI • PyTorch • OpenCV • Qdrant • PostgreSQL • React �
 
 ## 📫 Contact
 
-Email: niloysarker0033@gmail.com  
-Phone: 01861288754  
-LinkedIn | Portfolio | GitHub
+- Email: niloysarker0033@gmail.com  
+- Phone: 01861288754  
+- [LinkedIn](https://linkedin.com)  
+- [Portfolio](https://your-portfolio.com)  
+- [GitHub](https://github.com/NiloySarker)
