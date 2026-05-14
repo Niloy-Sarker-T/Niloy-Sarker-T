@@ -2,7 +2,7 @@
 
 AI/ML Engineer | Backend Developer | Researcher (CV, RAG, Speech AI)
 
-[LinkedIn](https://linkedin.com) | [Portfolio](https://your-portfolio.com) | [GitHub](https://github.com/NiloySarker) | niloysarker0033@gmail.com | 01861288754
+[LinkedIn](https://www.linkedin.com/in/niloy-sarker-48b361265/) | [Portfolio](https://niloysarker.me) | [GitHub](https://github.com/Niloy-Sarker-T) | niloysarker0033@gmail.com | 01861288754
 
 ---
 
@@ -22,11 +22,9 @@ Former President & R&D Secretary of RoboSUST (3 years), leading technical teams 
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niloy-Sarker-T
-&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niloy-Sarker-T&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niloy-Sarker-T
-&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niloy-Sarker-T&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
